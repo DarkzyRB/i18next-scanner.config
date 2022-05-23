@@ -21,7 +21,7 @@ module.exports = {
         defaultLng: 'en',
         defaultValue: '',
         resource: {
-            loadPath: "i18n/translations/{{lng}}.json", // Set the route you want
+            loadPath: "i18n/translations/{{lng}}.json", // Set the path you want
             savePath: "i18n/translations/{{lng}}.json", // ""
             jsonIndent: 2,
             lineEnding: "\n",
